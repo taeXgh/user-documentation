@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>ATCAP Documentation</span>,
   project: {
     link: 'https://github.com/taeXgh/user-documentation',
   },
